@@ -1,27 +1,25 @@
 # bootstrap-boilerplate
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Testing out Bootstrap 5.1 Boilerplate Template CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
 ```
-
-**this text is bold**
-*this text is italicized*
-
-
-[title](https://www.google.com)
-
-
-term
-: definition
-
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+## Steps to clone repo
+```
+- [x]  ~~git clone git@github.com:shintakuson/bootstrap-boilerplate.git~~
+- [x]  ~~git add .~~
+- [x]  ~~git commit -m “init commit”~~
+- [x]  ~~git push -u origin main~~
+```
+## What is included?
+```
+1. index.html
+2. css folder
+  -styles.css
+3. js folder
+  -scripts.js
+4. img folder
+```
+Contributor:
+Angel Ramirez
+Student
+Bitwise
+Email@somefakeEmailSite.com
