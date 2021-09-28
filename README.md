@@ -2,7 +2,7 @@
 
 Testing out Bootstrap 4.5.3 Boilerplate Template CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body.
  
-## Daily Challenge
+## &#128198; Daily Challenge
 
 - Create a new repository named "bootstrap-boilerplate"
 - Clone your repository
@@ -14,7 +14,7 @@ Testing out Bootstrap 4.5.3 Boilerplate Template CDN and only uses 1 bootstap li
         - Add (empty) JS folder-. Add (empty) IMG folder
 - Push your changes to your starter-files branch
 
-## Create a New Repository
+## &#127381; Create a New Repository
 
 - Go to [GitHub](http:github.com)
 - Under Repositories, select new
@@ -53,7 +53,7 @@ In this step we are going to do a shortcut. We will create the Folders together 
 ## &#128279; Link CSS to index.html
 
 - While we are in there, Locate the Link to Bootstrap  in the "Head" section.
-    - Underneath it Link your style.css sheet.
+    - Underneath the Bootstrap Link, Link your style.css sheet.
     >This allows our styles in style.css to overwrite Bootstrap css codes.
 
 ## &#128228; Push Changes to your starter-files Branch
