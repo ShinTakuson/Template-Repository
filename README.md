@@ -17,7 +17,7 @@ Testing out Bootstrap 5.1 Boilerplate Template CDN and only uses 1 bootstap link
 3. js folder
   -scripts.js
 4. img folder
-```
+
 ```mermaid
 graph LR
 A[Create Repo] -- Branch to test --> B((add changes))
