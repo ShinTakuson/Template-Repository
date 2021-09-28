@@ -3,11 +3,12 @@
 Testing out Bootstrap 5.1 Boilerplate Template CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
 ```
 ## Steps to clone repo
-```
-- [x]  ~~git clone git@github.com:shintakuson/bootstrap-boilerplate.git~~
-- [x]  ~~git add .~~
-- [x]  ~~git commit -m “init commit”~~
-- [x]  ~~git push -u origin main~~
+- [x] git clone git@github.com:gerbriel/bootstrap-boilerplate.git
+- [x] git add .
+- [X] git commit -m “init commit”
+- [X] git push -u origin main
+- [X] Contact the media
+
 ```
 ## What is included?
 ```
@@ -23,3 +24,4 @@ Angel Ramirez
 Student
 Bitwise
 Email@somefakeEmailSite.com
+
