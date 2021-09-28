@@ -18,12 +18,19 @@ Testing out Bootstrap 5.1 Boilerplate Template CDN and only uses 1 bootstap link
   -scripts.js
 4. img folder
 ```
-Contributor:[^1]
+```mermaid
+graph LR
+A[Create Repo] -- Branch to test --> B((add changes))
+A --> C(Main Branch)
+B --> D{Merge Branches}
+C --> D
+```
+
+
+
+
+Contributor:
 Angel Ramirez
 Student
 Bitwise
 Email@somefakeEmailSite.com
-
-Here's a sentence with a footnote. 
-
-[^1]: This is the footnote.
