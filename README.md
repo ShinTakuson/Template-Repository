@@ -1,5 +1,5 @@
 # bootstrap-boilerplate
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
