@@ -22,7 +22,7 @@ Testing out Bootstrap 4.5.3 Boilerplate Template CDN and only uses 1 bootstap li
 
 
 In GitBash enter the following codes into your terminal.
-- `git clone git@github.com:"userName"/bootstrap-boilerplategit`
+- `git clone git@github.com:shintakuson/bootstrap-boilerplategit`
 - `git add .`
 - `git commit -m “init commit”`
 - `git push -u origin main`
